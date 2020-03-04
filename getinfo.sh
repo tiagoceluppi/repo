@@ -5,3 +5,4 @@ df -h
 uname -a
 netstat -nlpt
 ifconfig
+date
